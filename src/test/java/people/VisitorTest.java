@@ -29,3 +29,4 @@ public class VisitorTest {
         assertEquals(40.0, visitor.getMoney(), 0.1);
     }
 }
+
